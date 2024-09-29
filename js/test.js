@@ -18,4 +18,3 @@ console.log("myNumber");
 
 const myNull = "null";
 console.log("myNull");
-
